@@ -1,0 +1,1 @@
+CMakeLists.txt not found in /Users/kirillfrolov/Documents/Учёба/inf/2nd_sem_Frolov Select CMakeLists.txt
